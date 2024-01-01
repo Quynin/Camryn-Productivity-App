@@ -1,0 +1,8 @@
+Requirements:
+1. App must count up time to count how long they've studied, associated to a day
+2. App must store to-do lists associated to a given day
+3. App must be able to block-off times of day (calendar-view with sections for specific tasks)
+4. App must be aesthetically pleasing
+
+Extra requirements:
+5. Send notifications to remind things
